@@ -1,6 +1,6 @@
-===
-ers
-===
+=====
+erspy
+=====
 
 
 A Python package handling ERS-1 and ERS-2 scatterometer data.
